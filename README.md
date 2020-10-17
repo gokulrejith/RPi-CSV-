@@ -1,2 +1,2 @@
-# RPi-CSV-
-Sensor reading to CSV file. Also read CSV file
+# **RPi-CSV**
+**Sensor reading to CSV file. Also read CSV file**
