@@ -1,2 +1,4 @@
 # RPi-CSV-
-Sensor reading to CSV file. Also read CSV file
+>Raspberry Pi
+>Sensor reading to CSV file. 
+>Read from CSV file
